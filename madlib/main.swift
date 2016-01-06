@@ -23,6 +23,8 @@ func input () -> String {
 print("Menu \nPlease choose an option \n(1) Lunch room\n(2) Animals\n(3) Sports\n(4) Recess\n(5) Pizza\n(6) No")
 var menu = input()
 
+func lunchRoom {
+    
 print("container")
 let blankOne = input()
 
@@ -35,4 +37,8 @@ let blankThree = input()
 print("noun")
 let blankFour = input()
 
-print(<#T##items: Any...##Any#>)
+print("animal")
+let blankFive = input()
+    
+    
+}
