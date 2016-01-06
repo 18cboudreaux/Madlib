@@ -20,6 +20,6 @@ func input () -> String {
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
 
-print("Menu \nPlease choose an option \n(1) Lunch room\n(2) Animals\n(3) \n(4) \n(5) \n(6) No")
+print("Menu \nPlease choose an option \n(1) Lunch room\n(2) Animals\n(3) Sports\n(4) Recess\n(5) Pizza\n(6) No")
 var menu = input()
 
