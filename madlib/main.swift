@@ -8,6 +8,7 @@
 
 
 //Group Name: Madlib
+//Members: Gabe E., Risen J., Chase B.
 
 import Foundation
 
