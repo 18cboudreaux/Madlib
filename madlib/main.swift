@@ -6,6 +6,9 @@
 //  Copyright © 2016 Coder. All rights reserved.
 //
 
+
+//Group Name: Madlib
+
 import Foundation
 
 func input () -> String {
@@ -15,3 +18,4 @@ func input () -> String {
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
+
