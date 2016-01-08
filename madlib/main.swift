@@ -23,7 +23,9 @@ func input () -> String {
 print("Menu \nPlease choose an option \n(1) Lunch room\n(2) Animals\n(3) Sports\n(4) Recess\n(5) Pizza\n(6) No")
 var menu = input()
 
-func lunchRoom {
+func lunchRoom() {
+    
+    //It will error till we have it all printed. Do not worry till then.
     
 print("container")
 let blankOne = input()
