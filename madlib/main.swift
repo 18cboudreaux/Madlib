@@ -25,6 +25,8 @@ var menu = input()
 
 func lunchRoom() {
     
+    //It will error till we have it all printed. Do not worry till then.
+    
 print("container")
 let blankOne = input()
 
@@ -39,6 +41,5 @@ let blankFour = input()
 
 print("animal")
 let blankFive = input()
-    
-    
+
 }
