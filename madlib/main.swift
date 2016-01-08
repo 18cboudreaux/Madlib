@@ -48,6 +48,18 @@ func lunchRoom(){
     print("noun")
     let blankFour = input()
     
+    print("animal")
+    let blankFive = input()
+    
+    print("vegetable")
+    let blankSix = input()
+    
+    print("vegetable")
+    let blankSeven = input()
+    
+    print("color")
+    let blankEight = input()
+    
     print("adjective")
     let blankNine = input()
    
