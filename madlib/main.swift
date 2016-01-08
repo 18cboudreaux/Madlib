@@ -53,6 +53,7 @@ let blankEight = input()
     
 print("adjective")
 let blankNine = input()
-    
-    
+   
+print("Make sure your lunch \(blankOne) is filled with nutritious \(blankTwo) food. Do not go to the \(blankThree) food stand across the stret from the school. The hamburgers they serve from are fried in \(blankFour) and are made of \(blankFive) meat. So take a sandwich made of \(blankSix) or \(blankSeven) it's much healthier! Drink \(blankEight) milk instead of \(blankNine) colas.")
 }
+
