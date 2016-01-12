@@ -143,7 +143,32 @@ func sports(){
 }
 
 func recess(){
+    print("Body part")
+    let fill1 = input()
     
+    print("Noun")
+    let fill2 = input()
+    
+    print("vegetable")
+    let fill3 = input()
+    
+    print("adjective")
+    let fill4 = input()
+    
+    print("verb")
+    let fill5 = input()
+    
+    print("noun")
+    let fill6 = input()
+    
+    print("adjective")
+    let fill7 = input()
+    
+    print("number")
+    let fill8 = input()
+    
+    print("verb")
+    let fill9 = input()
 }
 
 
