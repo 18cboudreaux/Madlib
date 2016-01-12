@@ -140,6 +140,8 @@ func sports(){
     
     print("day of the week")
     let open11 = input()
+    
+    print("BREAKING NEWS: \(open1), who plays \(open2) for the \(open3), was arrested lastnight for \(open4). Officals say he had been \(open5) and was armed with a \(open6) and there was \(open7) everywhere at the scence of the crime. NFL Commissioner Rgoer Goodell plans to suspend him for \(open8) games and fine him $\(open9). This marks the NFL's \(open10) arrest since \(open11).")
 }
 
 func recess(){
