@@ -171,6 +171,8 @@ func recess(){
     
     print("verb")
     let fill9 = input()
+    
+    print("Here are some things to do at recess. 1. Start a game pf touch \(fill1)-ball. 2. Put a \(fill2) un someone's lunch bag. 3. Start a \(fill3) fight in the school \(fill4) room. 4. Choos sides and have a \(fill5) ball tournament. 5. Demand more \(fill6) and shorter \(fill7) classes. 6. Choose \(fill8) kids to be it at \(fill9)")
 }
 
 
