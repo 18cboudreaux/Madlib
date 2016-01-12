@@ -198,6 +198,8 @@ func Random(){
     print("Verb")
     let slip7 = input()
     
+    print("One day \(slip1) was \(slip2) to the \(slip3). On the way, \(slip4) saw a \(slip5). This was a suprise so \(slip6) \(slip7) quickly.")
+    
     
     
     
