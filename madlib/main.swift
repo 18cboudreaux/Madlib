@@ -103,7 +103,7 @@ func animals(){
     print("adjective")
     let spot12 = input()
     
-    
+    print("Today I went to the zoo. I saw a \(spot1) \(spot2) jumping up and down in its trees. He \(spot3) \(spot4) through the large tunnel that led to its \(spot5) \(spot6). I got some peanuts and passed them through the cage to a gigantic gray \(spot7) towering above my head. Feeding that animal made me hungry. I went to go get a \(spot8) scoop of ice cream. It filled my stomach. Afterwards I had to \(spot9) \(spot10) to catch our bus. When I got home I \(spot11) my mom for a \(spot12) day at the zoo.")
 
 }
 
