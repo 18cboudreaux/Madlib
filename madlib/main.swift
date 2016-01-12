@@ -174,11 +174,39 @@ func recess(){
 }
 
 
+func Random(){
+    print("Proper noun")
+    let slip1 = input()
+    
+    print("Verb + ing")
+    let slip2 = input()
+    
+    print("Noun")
+    let slip3 = input()
+    
+    print("Pronouns")
+    let slip4 = input()
+    
+    print("Noun")
+    let slip5 = input()
+    
+    print("Pronoun")
+    let slip6 = input()
+    
+    print("Verb")
+    let slip7 = input()
+    
+    
+    
+    
+    
+}
 
 
 
 
-print("Menu \nPlease choose an option \n(1) Lunch room\n(2) Animals\n(3) Sports\n(4) Recess\n(5) Pizza\n(6) No")
+
+print("Menu \nPlease choose an option \n(1) Lunch room\n(2) Animals\n(3) Sports\n(4) Recess\n(5) Random\n(6) No")
 var menu = input()
 
 for menu in 1...6 {
