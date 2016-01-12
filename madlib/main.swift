@@ -108,7 +108,38 @@ func animals(){
 }
 
 func sports(){
+  print("Name of NFL Star")
+    let open1 = input()
     
+    print("Position")
+    let open2 = input()
+    
+    print("Lions or Bengals")
+    let open3 = input()
+    
+    print("Crime")
+    let open4 = input()
+    
+    print("Drinking or Smoking")
+    let open5 = input()
+    
+    print("Weapon")
+    let open6 = input()
+    
+    print("Bodily fluid")
+    let open7 = input()
+    
+    print("# greater than 4")
+    let open8 = input()
+    
+    print("# greater than 5,0000")
+    let open9 = input()
+    
+    print("# greater than 7")
+    let open10 = input()
+    
+    print("day of the week")
+    let open11 = input()
 }
 
 func recess(){
