@@ -67,7 +67,44 @@ func lunchRoom(){
 }
 
 func animals(){
+ print("adjective")
+    let spot1 = input()
+
+    print("noun")
+    let spot2 = input()
+   
+    print("verb: past tense")
+    let spot3 = input()
     
+    print("adverb")
+    let spot4 = input()
+    
+    print("adjective")
+    let spot5 = input()
+    
+    print("noun")
+    let spot6 = input()
+    
+    print("noun")
+    let spot7 = input()
+    
+    print("adjective")
+    let spot8 = input()
+    
+    print("verb")
+    let spot9 = input()
+    
+    print("adverb")
+    let spot10 = input()
+    
+    print("verb past tense")
+    let spot11 = input()
+    
+    print("adjective")
+    let spot12 = input()
+    
+    
+
 }
 
 func sports(){
@@ -95,5 +132,6 @@ for menu in 1...6 {
     
     else if menu == 2 {
         animals()
+        
     }
 }
