@@ -36,6 +36,7 @@ func lunchRoom(){
     
     //It will error till we have it all printed. Do not worry till then.
     // The work of Gabe. This is the user input part of the code.
+    
     print("container")
     let blankOne = input()
     
@@ -62,7 +63,9 @@ func lunchRoom(){
     
     print("adjective")
     let blankNine = input()
+    
    //The work of Risen. This is the release statement that used the user input
+    
     print("Make sure your lunch \(blankOne) is filled with nutritious \(blankTwo) food. Do not go to the \(blankThree) food stand across the stret from the school. The hamburgers they serve from are fried in \(blankFour) and are made of \(blankFive) meat. So take a sandwich made of \(blankSix) or \(blankSeven) it's much healthier! Drink \(blankEight) milk instead of \(blankNine) colas.")
     
     print("")
@@ -77,7 +80,9 @@ func lunchRoom(){
         print("Thank you, goodbye.")
     }
 }
+
 // The work of Gabe. This is the user input part the code.
+
 func animals(){
  print("adjective")
     let spot1 = input()
@@ -114,7 +119,9 @@ func animals(){
     
     print("adjective")
     let spot12 = input()
+    
     //The work of Risen. This is the release statment that used the user input.
+    
     print("Today I went to the zoo. I saw a \(spot1) \(spot2) jumping up and down in its trees. He \(spot3) \(spot4) through the large tunnel that led to its \(spot5) \(spot6). I got some peanuts and passed them through the cage to a gigantic gray \(spot7) towering above my head. Feeding that animal made me hungry. I went to go get a \(spot8) scoop of ice cream. It filled my stomach. Afterwards I had to \(spot9) \(spot10) to catch our bus. When I got home I \(spot11) my mom for a \(spot12) day at the zoo.")
     
         print("")
@@ -130,7 +137,9 @@ func animals(){
     }
 
 }
+
 // The work of Gabe. This is the user input part of the code
+
 func sports(){
   print("Name of NFL Star")
     let open1 = input()
@@ -164,7 +173,9 @@ func sports(){
     
     print("day of the week")
     let open11 = input()
+    
     // The work of Risen. This is the release statement that used the user input
+    
     print("BREAKING NEWS: \(open1), who plays \(open2) for the \(open3), was arrested lastnight for \(open4). Officals say he had been \(open5) and was armed with a \(open6) and there was \(open7) everywhere at the scence of the crime. NFL Commissioner Rgoer Goodell plans to suspend him for \(open8) games and fine him $\(open9). This marks the NFL's \(open10) arrest since \(open11).")
     
     print("")
@@ -179,7 +190,9 @@ func sports(){
         print("Thank you, goodbye.")
     }
 }
+
 //The work of Gabe. This is the user input part of the code
+
 func recess(){
     print("Body part")
     let fill1 = input()
@@ -207,7 +220,9 @@ func recess(){
     
     print("verb")
     let fill9 = input()
+    
     //The work of Risen.  This is the release that used the user input
+    
    print("Here are some things to do at recess. 1. Start a game pf touch \(fill1)-ball. 2. Put a \(fill2) un someone's lunch bag. 3. Start a \(fill3) fight in the school \(fill4) room. 4. Choos sides and have a \(fill5) ball tournament. 5. Demand more \(fill6) and shorter \(fill7) classes. 6. Choose \(fill8) kids to be it at \(fill9)")
     
     print("")
@@ -247,7 +262,9 @@ func oneDay() {
     
     print("Verb")
     let slip7 = input()
+    
     // The work of Risen. This is the release statement that used the user input.
+    
     print("One day \(slip1) was \(slip2) to the \(slip3). On the way, \(slip4) saw a \(slip5). This was a suprise so \(slip6) \(slip7) quickly.")
     
 print("")
