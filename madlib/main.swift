@@ -77,7 +77,7 @@ func lunchRoom(){
         menu()
     }
     else if reply == "yes"{
-        print("thank you, goodbye.")
+        menu()
     }
     else if reply == "No"{
         print("Thank you, goodbye.")
@@ -139,7 +139,7 @@ func animals(){
         menu()
     }
     else if reply == "yes"{
-        print("thank you, goodbye.")
+        menu()
     }
     else if reply == "No"{
         print("Thank you, goodbye.")
@@ -198,7 +198,7 @@ func sports(){
         menu()
     }
     else if reply == "yes"{
-        print("thank you, goodbye.")
+        menu()
     }
     else if reply == "No"{
         print("Thank you, goodbye.")
@@ -251,7 +251,7 @@ func recess(){
         menu()
     }
     else if reply == "yes"{
-        print("thank you, goodbye.")
+        menu()
     }
     else if reply == "No"{
         print("Thank you, goodbye.")
@@ -298,7 +298,7 @@ func oneDay() {
         menu()
     }
     else if reply == "yes"{
-        print("thank you, goodbye.")
+        menu()
     }
     else if reply == "No"{
         print("Thank you, goodbye.")
