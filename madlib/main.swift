@@ -126,7 +126,7 @@ func animals(){
     
         print("")
         
-        print("Would you like to play again? \nYes \nOr \nNo")
+    print("Would you like to play again? \nYes \nOr \nNo")
     var reply = input()
     
     if reply == "Yes" {
