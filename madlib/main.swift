@@ -76,7 +76,13 @@ func lunchRoom(){
     if reply == "Yes" {
         menu()
     }
+    else if reply == "yes"{
+        print("thank you, goodbye.")
+    }
     else if reply == "No"{
+        print("Thank you, goodbye.")
+    }
+    else if reply == "no"{
         print("Thank you, goodbye.")
     }
 }
@@ -124,18 +130,23 @@ func animals(){
     
     print("Today I went to the zoo. I saw a \(spot1) \(spot2) jumping up and down in its trees. He \(spot3) \(spot4) through the large tunnel that led to its \(spot5) \(spot6). I got some peanuts and passed them through the cage to a gigantic gray \(spot7) towering above my head. Feeding that animal made me hungry. I went to go get a \(spot8) scoop of ice cream. It filled my stomach. Afterwards I had to \(spot9) \(spot10) to catch our bus. When I got home I \(spot11) my mom for a \(spot12) day at the zoo.")
     
-        print("")
-        
+    print("")
+    
     print("Would you like to play again? \nYes \nOr \nNo")
     var reply = input()
     
     if reply == "Yes" {
         menu()
     }
+    else if reply == "yes"{
+        print("thank you, goodbye.")
+    }
     else if reply == "No"{
         print("Thank you, goodbye.")
     }
-
+    else if reply == "no"{
+        print("Thank you, goodbye.")
+    }
 }
 
 // The work of Gabe. This is the user input part of the code
@@ -186,7 +197,13 @@ func sports(){
     if reply == "Yes" {
         menu()
     }
+    else if reply == "yes"{
+        print("thank you, goodbye.")
+    }
     else if reply == "No"{
+        print("Thank you, goodbye.")
+    }
+    else if reply == "no"{
         print("Thank you, goodbye.")
     }
 }
@@ -233,11 +250,16 @@ func recess(){
     if reply == "Yes" {
         menu()
     }
+    else if reply == "yes"{
+        print("thank you, goodbye.")
+    }
     else if reply == "No"{
         print("Thank you, goodbye.")
     }
+    else if reply == "no"{
+        print("Thank you, goodbye.")
+    }
 }
-
 
 // The work of Gabe. This is the user input part of the code.
 
@@ -267,17 +289,23 @@ func oneDay() {
     
     print("One day \(slip1) was \(slip2) to the \(slip3). On the way, \(slip4) saw a \(slip5). This was a suprise so \(slip6) \(slip7) quickly.")
     
-print("")
+    print("")
     
-print("Would you like to play again? \nYes \nOr \nNo")
+    print("Would you like to play again? \nYes \nOr \nNo")
     var reply = input()
     
     if reply == "Yes" {
         menu()
-}
+    }
+    else if reply == "yes"{
+        print("thank you, goodbye.")
+    }
     else if reply == "No"{
         print("Thank you, goodbye.")
-}
+    }
+    else if reply == "no"{
+        print("Thank you, goodbye.")
+    }
 }
 
 func menu() {
